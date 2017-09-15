@@ -1,0 +1,38 @@
+C:\Users\Equipo1\AppData\Local\Temporary Projects\SoftwareCosts\bin\Debug\SoftwareCosts.exe
+C:\Users\Equipo1\AppData\Local\Temporary Projects\SoftwareCosts\bin\Debug\SoftwareCosts.pdb
+C:\Users\Equipo1\AppData\Local\Temporary Projects\SoftwareCosts\bin\Debug\SoftwareCosts.xml
+C:\Users\Equipo1\AppData\Local\Temporary Projects\SoftwareCosts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Equipo1\AppData\Local\Temporary Projects\SoftwareCosts\obj\Debug\SoftwareCosts.Principal.resources
+C:\Users\Equipo1\AppData\Local\Temporary Projects\SoftwareCosts\obj\Debug\SoftwareCosts.Resources.resources
+C:\Users\Equipo1\AppData\Local\Temporary Projects\SoftwareCosts\obj\Debug\SoftwareCosts.vbproj.GenerateResource.Cache
+C:\Users\Equipo1\AppData\Local\Temporary Projects\SoftwareCosts\obj\Debug\SoftwareCosts.exe
+C:\Users\Equipo1\AppData\Local\Temporary Projects\SoftwareCosts\obj\Debug\SoftwareCosts.xml
+C:\Users\Equipo1\AppData\Local\Temporary Projects\SoftwareCosts\obj\Debug\SoftwareCosts.pdb
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\SoftwareCosts\obj\Debug\SoftwareCosts.exe
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\SoftwareCosts\obj\Debug\SoftwareCosts.xml
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\SoftwareCosts\obj\Debug\SoftwareCosts.pdb
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\SoftwareCosts\bin\Debug\SoftwareCosts.exe
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\SoftwareCosts\bin\Debug\SoftwareCosts.pdb
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\SoftwareCosts\bin\Debug\SoftwareCosts.xml
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\SoftwareCosts\bin\Debug\BibliotecaClases.dll
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\SoftwareCosts\bin\Debug\BibliotecaClases.pdb
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\SoftwareCosts\bin\Debug\BibliotecaClases.xml
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\SoftwareCosts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\SoftwareCosts\obj\Debug\SoftwareCosts.FormEstadoCostos.resources
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\SoftwareCosts\obj\Debug\SoftwareCosts.Principal.resources
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\SoftwareCosts\obj\Debug\SoftwareCosts.Resources.resources
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\SoftwareCosts\obj\Debug\SoftwareCosts.vbproj.GenerateResource.Cache
+D:\SoftwareCosts\SoftwareCosts\obj\Debug\SoftwareCosts.exe
+D:\SoftwareCosts\SoftwareCosts\obj\Debug\SoftwareCosts.xml
+D:\SoftwareCosts\SoftwareCosts\obj\Debug\SoftwareCosts.pdb
+D:\SoftwareCosts\SoftwareCosts\bin\Debug\SoftwareCosts.exe
+D:\SoftwareCosts\SoftwareCosts\bin\Debug\SoftwareCosts.pdb
+D:\SoftwareCosts\SoftwareCosts\bin\Debug\SoftwareCosts.xml
+D:\SoftwareCosts\SoftwareCosts\bin\Debug\BibliotecaClases.dll
+D:\SoftwareCosts\SoftwareCosts\bin\Debug\BibliotecaClases.pdb
+D:\SoftwareCosts\SoftwareCosts\bin\Debug\BibliotecaClases.xml
+D:\SoftwareCosts\SoftwareCosts\obj\Debug\ResolveAssemblyReference.cache
+D:\SoftwareCosts\SoftwareCosts\obj\Debug\SoftwareCosts.FormEstadoCostos.resources
+D:\SoftwareCosts\SoftwareCosts\obj\Debug\SoftwareCosts.Principal.resources
+D:\SoftwareCosts\SoftwareCosts\obj\Debug\SoftwareCosts.Resources.resources
+D:\SoftwareCosts\SoftwareCosts\obj\Debug\SoftwareCosts.vbproj.GenerateResource.Cache

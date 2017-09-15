@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SoftwareCosts", "SoftwareCosts\SoftwareCosts.vbproj", "{62EE90EF-E173-4802-BB58-94C1315CBFE0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BibliotecaClases", "BibliotecaClases\BibliotecaClases.vbproj", "{014EF2BD-8EB5-48F1-933A-E0E253F0A9F4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{F4626962-86B5-4EA7-9E90-E9F747E89D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62EE90EF-E173-4802-BB58-94C1315CBFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62EE90EF-E173-4802-BB58-94C1315CBFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62EE90EF-E173-4802-BB58-94C1315CBFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62EE90EF-E173-4802-BB58-94C1315CBFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{014EF2BD-8EB5-48F1-933A-E0E253F0A9F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014EF2BD-8EB5-48F1-933A-E0E253F0A9F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014EF2BD-8EB5-48F1-933A-E0E253F0A9F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014EF2BD-8EB5-48F1-933A-E0E253F0A9F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4626962-86B5-4EA7-9E90-E9F747E89D47}.Debug|Any CPU.ActiveCfg = Debug
+		{F4626962-86B5-4EA7-9E90-E9F747E89D47}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

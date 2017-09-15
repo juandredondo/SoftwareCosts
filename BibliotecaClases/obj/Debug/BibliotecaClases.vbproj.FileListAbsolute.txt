@@ -1,0 +1,18 @@
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\BibliotecaClases\bin\Debug\BibliotecaClases.xml
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\BibliotecaClases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\BibliotecaClases\obj\Debug\BibliotecaClases.Resources.resources
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\BibliotecaClases\obj\Debug\BibliotecaClases.vbproj.GenerateResource.Cache
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\BibliotecaClases\obj\Debug\BibliotecaClases.xml
+C:\Users\Equipo1\Documents\Visual Studio 2008\Projects\SoftwareCosts\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+D:\SoftwareCosts\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+D:\SoftwareCosts\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+D:\SoftwareCosts\BibliotecaClases\bin\Debug\BibliotecaClases.xml
+D:\SoftwareCosts\BibliotecaClases\obj\Debug\ResolveAssemblyReference.cache
+D:\SoftwareCosts\BibliotecaClases\obj\Debug\BibliotecaClases.Resources.resources
+D:\SoftwareCosts\BibliotecaClases\obj\Debug\BibliotecaClases.vbproj.GenerateResource.Cache
+D:\SoftwareCosts\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+D:\SoftwareCosts\BibliotecaClases\obj\Debug\BibliotecaClases.xml
+D:\SoftwareCosts\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
